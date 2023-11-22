@@ -1,1 +1,1 @@
-# SGConv_SR-denoise
+#### The results of the proposed model for 4x super-resolution (either for clean or noisy LR images), the LR and HR test datasets, figures of the paper, and code for calculating PSNR and SSIM are provided in this [link] (https://drive.google.com/file/d/1jNPdAgIKhpSRfZLhK-dTTnnVx7KgAq6z/view?usp=drive_link).
